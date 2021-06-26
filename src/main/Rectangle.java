@@ -1,6 +1,6 @@
 package main;
 
-public class Rectangle {
+public class Rectangle implements Shape {
     int height;
     int width;
 
@@ -26,6 +26,7 @@ public class Rectangle {
         return height;
     }
 
+    @Override
     public int computeArea()
     {
         return this.height * this.width;
