@@ -22,3 +22,4 @@ public class Square implements Shape{
         return (int) Math.pow(edge,2);
     }
 }
+
