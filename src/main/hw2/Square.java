@@ -1,10 +1,10 @@
-package main;
+package main.hw2;
 
 public class Square implements Shape{
 
     int edge;
 
-    Square(int edge)
+    public Square(int edge)
     {
         this.edge = edge;
     }

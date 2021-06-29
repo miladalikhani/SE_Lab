@@ -1,4 +1,4 @@
-package main;
+package main.hw3;
 
 public abstract class CondimentDecorator implements Beverage{
     private Beverage beverage;

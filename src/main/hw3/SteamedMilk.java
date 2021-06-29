@@ -1,4 +1,4 @@
-package main;
+package main.hw3;
 
 public class SteamedMilk extends CondimentDecorator{
     SteamedMilk(Beverage beverage) {

@@ -1,4 +1,4 @@
-package main;
+package main.hw3;
 
 public class Mocha extends CondimentDecorator{
     Mocha(Beverage beverage) {

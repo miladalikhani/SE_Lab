@@ -1,4 +1,4 @@
-package main;
+package main.hw3;
 
 import org.junit.jupiter.api.Test;
 
